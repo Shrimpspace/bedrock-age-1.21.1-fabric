@@ -8,7 +8,7 @@
 		"小虾虾Shrimp"
 	],
 	"contact": {
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Shrimpspace/bedrock-age-1.21.1-fabric"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/bedrock-age/icon.png",
@@ -19,6 +19,9 @@
 		],
 		"fabric-datagen": [
 			"online.shrimpspace.mod.BedrockAgeDataGenerator"
+		],
+		"client": [
+			"online.shrimpspace.mod.BedrockAgeClient"
 		]
 	},
 	"mixins": [
