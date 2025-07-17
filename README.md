@@ -38,8 +38,6 @@ The "Bedrock Age" mod enriches the underground exploration, mineral processing, 
 
 **Delve into the deepest depths, harness the power of bedrock, and begin your Bedrock Age today!**
 
-好的，这个模组介绍很有潜力！以下是基于您提供的信息，进行**正式化、结构化、信息清晰化**后的版本，更适合发布在模组页面、Wiki或论坛上：
-
 ---
 
 # 模组名称：基岩时代 (The Bedrock Age)
